@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "@nsis/docs": "^0.1.0",
-    "@raycast/api": "^1.27.0",
+    "@raycast/api": "^1.80.0",
     "@sindresorhus/slugify": "^2.1.0"
   },
   "devDependencies": {
