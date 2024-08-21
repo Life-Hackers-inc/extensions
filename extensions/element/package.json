@@ -18,7 +18,7 @@
         "mode": "view"
     }],
     "dependencies": {
-        "@raycast/api": "^1.32.1",
+        "@raycast/api": "^1.80.0",
         "dedent-js": "^1.0.1"
     },
     "devDependencies": {
